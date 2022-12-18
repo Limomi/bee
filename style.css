@@ -1,0 +1,88 @@
+.First, .Second{
+    width: 1300px;  
+    margin: 30px auto;
+}
+.First{
+    display: flex;
+    margin: auto;
+}
+.by{
+    color: grey;
+    text-align: right;
+    display: flex;
+    margin-left: auto;
+}
+.menu{
+    display: flex;
+    padding: 40px;
+    background-color: rgb(255, 196, 0);
+}
+.Second{
+    padding-top: 12px;
+    padding-bottom: 12px ;
+}
+.menu-item{
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+.menu-item a{
+    text-decoration: none;
+    color: white;
+}
+.main_img{
+    margin-left: 295px;
+    width: 1300px;
+}
+.left{
+    width: 1100px;
+    padding-right: 25px;
+}
+.container{
+    width: 1300px;
+    display: flex;
+    margin-left: 295px;
+    margin-top: 100px;
+}
+.punkt{
+    border-bottom: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.punkt a{
+    color:  rgb(255, 196, 0);
+}
+main a, footer a{
+    color:  rgb(255, 196, 0);
+}
+footer{
+    text-align: center;
+}
+.more{
+    text-align: right;
+    margin-left: 900px;
+    padding: 3px;
+    border: 1px solid gray;
+    width: 65px;
+}
+.date{
+    color: grey;
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+    display: flex;
+    width: 300px;
+    margin: auto;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 50px;
+}
+.main-text{
+    font-size: 20px;
+    text-align: justify;
+}
